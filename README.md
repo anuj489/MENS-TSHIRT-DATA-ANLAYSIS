@@ -29,22 +29,25 @@ Dataset used in this project:
 
 The dataset contains:
 
--   Brand Name\
--   Price\
--   Discount %\
--   Sales Price\
--   Profit %\
--   Product Variety
+- Brand Name
+- Price
+- Discount %
+- Sales Price
+- Profit %
+- Product Variety
 
 ------------------------------------------------------------------------
 
 ## 🛠 Tools & Technologies
 
--   Power BI Desktop
--   DAX (Data Analysis Expressions)
--   Data Cleaning & Transformation
--   CSV Dataset
--   Data Visualization
+The following tools were used in this project:
+
+- **Microsoft SQL Server (MSSQL)** – Data storage and querying
+- **Microsoft Azure** – Cloud-based database integration
+- **Power BI** – Data visualization and dashboard creation
+- **Power Query Editor** – Data cleaning and transformation
+
+---
 
 ------------------------------------------------------------------------
 
